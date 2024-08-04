@@ -1,4 +1,4 @@
-![Harikrishnan](https://user-images.githubusercontent.com/54183649/137182966-1ec794e8-59d6-4a74-ab4e-22bcb0cd7b9a.gif)
+![Harikrishnan](https://.gif)
 
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hariikr.github.io/Hari-s-personal-responsive-website/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Harikri71912337)
@@ -22,8 +22,6 @@ I'm Harikrishnan, I am a self taught Full Stack Developer, currently working on 
 
 [![Hari's wakatime stats](https://github-readme-streak-stats.herokuapp.com/?user=hariikr)](https://wakatime.com/@hariikr)
 
-## 💻 Coding Time
-[![Hari's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hariikr)](https://wakatime.com/@hariikr) 
 
 ## 🧠 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,9 +43,6 @@ I'm Harikrishnan, I am a self taught Full Stack Developer, currently working on 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2e7eea?style=for-the-badge&logo=strapi&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)
