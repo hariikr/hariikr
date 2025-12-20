@@ -57,4 +57,3 @@ I care about writing maintainable code, understanding systems deeply, and contin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariikr&layout=compact)](https://github.com/hariikr)
 ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hariikr&show_icons=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hariikr)](https://github.com/hariikr)
