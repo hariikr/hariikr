@@ -5,7 +5,6 @@ Full-stack developer focused on building clean and reliable web and mobile appli
 I currently work mainly with **Flutter, Supabase, React, and Node.js**, and I enjoy designing well-structured APIs and working closely with databases.
 
 - 📍 Kochi, India  
-- 💼 Open to Full Stack / Frontend opportunities  
 - 📫 **harikrishnananish0@gmail.com**
 
 ---
